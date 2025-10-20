@@ -1,0 +1,9 @@
+/* gulp, handwritten css, in '25, be scared plz */
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    color: #eef;
+    background-color: #222;
+}
